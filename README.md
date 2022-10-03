@@ -2,10 +2,12 @@
 @@ -1,4 +1,6 @@
 # Identifying-Customer-Segments
 
+![](https://alidropship.com/wp-content/uploads/2019/12/2.-Customer-Segmentation.jpg)
+
 ## Project Motivation
 In this project, I employ several supervised algorithms to accurately model individuals' income using data regarding 3000 existing customers which has been provided to us by our anonymous client. I then choose the best candidate algorithm from preliminary results and further optimize this algorithm to best model the data.
 
-@@ -7,3 +9,28 @@
+
 
 The goal is to construct a model that accurately identifies which of 1000 new customers our client should target, based on thhe data of the 1000 new clients. 
 
